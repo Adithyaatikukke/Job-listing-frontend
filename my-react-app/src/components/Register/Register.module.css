@@ -1,0 +1,88 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    /* background-color: lightblue; */
+}
+.h1{
+    width: 501px;
+    height: 58px;
+    padding-top: 160px;
+    padding-left: 150px;
+    
+}
+.h2{
+    width: 307px;
+    height: 30px;
+    padding-top: 0px;
+    padding-left: 130px;
+    font-family: DM Sans;
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.input{
+    width: 550px;
+    height: 64px;
+    margin-top: 25px;
+    margin-left: 140px;
+    padding-left: 50px;
+    border-radius: 5px;
+    border: 2px;
+    border: 2px solid #C2C2C2;
+}
+button{
+    margin-top: 15px;
+    margin-left: 140px;
+    width: 277px;
+    height: 63.92px;
+    top: 707px;
+    left: 90px;
+    border-radius: 5px;
+    background: #ED5353;
+    font-size: 20px;
+    color: #fff;
+    font-family: DM Sans;
+    font-size: 28px;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: center;
+    cursor: pointer;
+    
+    
+}
+.footer{
+    font-family: DM Sans;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    padding-left:150px ;
+    padding-top: 3px;
+}
+.checkbox{
+    width: 19px;
+    height: 19px;
+    margin-top: 24px;
+    margin-left: 145px;
+        
+    
+}
+.checkboxc{
+    padding-left: 1px;
+    width: 563px;
+    height: 24px;
+    margin-top:  645px;
+    margin-left: 1px;
+    font-size: 20px;
+    font-weight: 200;
+    color: #525252;
+
+    
+}
+.underline {
+    margin: 4px;
+    font-weight: 700;
+    text-decoration: underline;
+}
